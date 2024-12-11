@@ -1,4 +1,4 @@
-> Please help us improve and share your feedback! If you find better tutorials or links, please share them by opening a [Pull Request](https://github.com/HackYourFuture-CPH/JavaScript/pulls).   
+> Please help us improve and share your feedback! If you find better tutorials or links, please share them by opening a [Pull Request](https://github.com/HackYourFutureBelgium/JavaScript_2025/pulls).   
 > 
 
 <h1 align='center'>
@@ -28,8 +28,8 @@ A tool capable of loading a JSON file and representing it in the DOM
 A web app with external data source using at least one API
 
 ### Overall
-A good understanding of all the above mentioned topics. Want to check your Knowledge?    
-Go through the [JavaScript Fundamentals readme](/fundamentals) and research/ask for help [(Slack!)](https://hackyourfuture-cph.slack.com) with the concepts that are not entirely clear.
+A good understanding of all the above mentioned topics. Want to check your Knowledge?
+Go through the [JavaScript Fundamentals readme](/fundamentals) and research/ask for help Slack with the concepts that are not entirely clear.
 
 Helpful resource: http://jsbooks.revolunet.com/ (here you can find tons of free JavaScript books online)
 
