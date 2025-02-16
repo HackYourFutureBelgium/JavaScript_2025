@@ -35,7 +35,7 @@ document.querySelector('button').addEventListner('click', logOuttext());
 
 Good example of practical example of callbacks: https://github.com/HackYourFuture-CPH/JavaScript/blob/class08/JavaScript2/Week5/classwork/extra_examples.md
 
-At this point good coding practices is starting to get very important! Check our [coding best practices](https://github.com/HackYourFuture-CPH/curriculum/blob/main/review/review-checklist.md#javascript) and use these both when live coding but also in reviews.
+At this point good coding practices is starting to get very important! Check our [coding best practices](https://github.com/HackYourFutureBelgium/curriculum2025/blob/main/review/review-checklist.md#javascript) and use these both when live coding but also in reviews.
 
 This is super good at explaining function logic
 ![Function graphic](assest/../assets/function-graphic.jpg)
@@ -182,4 +182,4 @@ Say we want to create an online tool where businesses can see where their users'
 
 Before starting with this exercise, create a plan for how you will implement this! Maybe together with your mentor. 
 
-Thank you for teaching Javascript 2. To make sure we keep improving, we are seeking your feedback on the module. For homework helpers, please click [here](https://forms.gle/pQQGWPAebVmbSDq49) to give us feedback. For teachers, your survey is available [here](https://forms.gle/ATsPi9zdFkd8tvHh7).
+Thank you for teaching Javascript 2.

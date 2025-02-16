@@ -30,7 +30,7 @@ If you struggle to do this weeks homework there are a couple of things to do:
 
 - Try watch this video: https://www.youtube.com/watch?v=Urwzk6ILvPQ
 - Watch the class recording. If it for some reason is missing. Then watch these: [part 1](https://www.youtube.com/watch?v=AJt_O0EFDC8), [part 2](https://www.youtube.com/watch?v=4tj7CvD7ka8), [part 3](https://www.youtube.com/watch?v=CO40FG6pK2k) [part 4](https://www.youtube.com/watch?v=eA2tCs0AaaM)
-- Read up on array functions [here](https://github.com/HackYourFuture-CPH/JavaScript/blob/main/javascript2/week2/readme.md#array-methods-map-filter-and-sort)
+- Read up on array functions [here](https://github.com/HackYourFutureBelgium/JavaScript_2025/blob/main/javascript2/week2/readme.md#array-methods-map-filter-and-sort)
 
 ## 1.1. Doubling of number
 
