@@ -36,7 +36,7 @@ If you find anything that could be improved then please create a pull request! W
   - [Code inspiration](#fetch)
   - [Exercise 1](#astronauts-in-space), [exercise 2](#dog-fan-website)
 
-At this point good coding practices is starting to get very important! Check our [coding best practices](https://github.com/HackYourFuture-CPH/curriculum/blob/main/review/review-checklist.md#javascript) and use these both when live coding but also in reviews.
+At this point good coding practices is starting to get very important! Check our [coding best practices](https://github.com/HackYourFutureBelgium/curriculum2025/blob/main/review/review-checklist.md#javascript) and use these both when live coding but also in reviews.
 
 
 ## Flipped classroom videos
