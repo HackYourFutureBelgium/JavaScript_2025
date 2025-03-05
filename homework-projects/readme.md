@@ -51,7 +51,7 @@ The main difference is that you will be on a different repository and that you w
 
 # DEPLOYMENT
 
-So you can demo your project easily both at the end of the project, but also to future employers, it is a requirement that you deploy the project. You can use the [HackYourFuture project template](https://github.com/HackYourFuture-CPH/hyf-project-template) as a starting point, or an otherwise agreed upon process by the staff and mentors.
+So you can demo your project easily both at the end of the project, but also to future employers, it is a requirement that you deploy the project. You can use the [HackYourFuture project template](https://github.com/HackYourFutureBelgium/hyf-project-template) as a starting point, or an otherwise agreed upon process by the staff and mentors.
 
 <br/>
 
